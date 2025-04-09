@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-container {
+    background-image: url("https://subcontracteu.com/uploads/pages/535eee07e8fd4c9fabc377cd464c1d74.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 5px;
+}
+
+.button {
+    color: white;
+    background-color: #25b1cc;
+    width: 138px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+}
+
+.paragraph {
+    font-family: "Roboto";
+}
+
+.SeconOne-bg-container {
+    background-image: url("https://subcontracteu.com/uploads/pages/535eee07e8fd4c9fabc377cd464c1d74.png");
+    height: 100vh;
+    background-size: cover;
+    padding: 24px;
+}
+
+.SeconOne-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.SeconOne-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 15px;
+}
+
+.SeconOne-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.SeconOne-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.SeconOne-card-image {
+    width: 80px;
+    height: 100px;
+}
+
+.SeconOne-card-text-container {
+    margin-right: 15px;
+}
+
+.Arduino-bg-container {
+    background-image: url("https://subcontracteu.com/uploads/pages/535eee07e8fd4c9fabc377cd464c1d74.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.Arduino-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.Arduino-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.Arduino-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.Arduino-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.Arduino-card-text-container {
+    padding: 16px;
+}
+
+
+
+.esp32-bg-container {
+    background-image: url("https://subcontracteu.com/uploads/pages/535eee07e8fd4c9fabc377cd464c1d74.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.esp32-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.esp32-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.esp32-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.esp32-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.esp32-text-container {
+    padding: 16px;
+}
+
+.Raspberry-bg-container {
+    background-image: url("https://subcontracteu.com/uploads/pages/535eee07e8fd4c9fabc377cd464c1d74.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.Raspberry-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.Raspberry-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.Raspberry-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.Raspberry-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.Raspberry-text-container {
+    padding: 16px;
+}
+
+.Arm-bg-container {
+    background-image: url("https://subcontracteu.com/uploads/pages/535eee07e8fd4c9fabc377cd464c1d74.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.Arm-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.Arm-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.Arm-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.Arm-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.Arm-text-container {
+    padding: 16px;
+}
